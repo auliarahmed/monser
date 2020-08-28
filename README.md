@@ -1,26 +1,20 @@
 # MONSER (Monitoring Server)
 
-MonSer adalah tools that can monitor server such ad cpu, ram, disk, network, and many more. The first step in this project is will be monitor server based on Linux (CentOs 7), soon it will be on Windows to!
+MonSer is a tool that can monitor server such ad cpu, ram, disk, network, and many more. The first step in this project is will be monitor server based on Linux (CentOs 7), soon it will be on Windows to!
 
-## Installation
+And this project will be written with php and vanilla js.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
+## Function
 
 ```python
 
-monitoring hostname, cpu model, kernel, last update, os installed
-monitoring cpu
-monitoring ram
-monitoring hdd
-monitoring network
-monitoring link/url web
-monitoring ip
+Print hostname, cpu model, kernel, last update, os installed
+Monitoring cpu
+Monitoring ram
+Monitoring hdd
+Monitoring network
+Monitoring link/url web
+Monitoring ip
 
 ```
 
