@@ -1,6 +1,6 @@
 # MONSER (Monitoring Server)
 
-MonSer is a tool that can monitor server such ad cpu, ram, disk, network, and many more. The first step in this project is will be monitor server based on Linux (CentOs 7), soon it will be on Windows to!
+MonSer is a tool that can monitor server such as cpu, ram, disk, network, and many more. The first step in this project is will be monitor server based on Linux (CentOs 7), soon it will be on Windows to!
 
 And this project will be written with php and vanilla js.
 
